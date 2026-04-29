@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+qdrant-client
+sentence-transformers
+langchain
+python-multipart
+# For PII Masking and Data Handling
+spacy
+re
+pandas
